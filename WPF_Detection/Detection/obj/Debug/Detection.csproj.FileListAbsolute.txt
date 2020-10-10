@@ -1,0 +1,15 @@
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\Detection.exe.config
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\Detection.exe
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\Detection.pdb
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.csprojAssemblyReference.cache
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\MainWindow.g.cs
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\App.g.cs
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection_MarkupCompile.cache
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection_MarkupCompile.lref
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\MainWindow.baml
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.g.resources
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.Properties.Resources.resources
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.csproj.GenerateResource.cache
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.csproj.CoreCompileInputs.cache
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.exe
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.pdb
