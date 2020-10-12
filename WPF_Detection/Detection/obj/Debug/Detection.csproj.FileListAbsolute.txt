@@ -13,3 +13,14 @@ C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.csproj.Genera
 C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.csproj.CoreCompileInputs.cache
 C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.exe
 C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.pdb
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\ControlzEx.dll
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\MahApps.Metro.dll
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\ControlzEx.pdb
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\ControlzEx.xml
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\MahApps.Metro.pdb
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\MahApps.Metro.xml
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\App.baml
+C:\Users\13834\Desktop\WPF_Detection\Detection\obj\Debug\Detection.csproj.CopyComplete

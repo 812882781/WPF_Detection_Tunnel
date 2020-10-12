@@ -15,15 +15,15 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
 using System.Diagnostics;
+using MahApps.Metro.Controls;
 
 namespace Detection
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainWindow : MetroWindow
     {
         Comm comm = new Comm();
         STU_Binding sTU_Binding = new STU_Binding();
