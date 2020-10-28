@@ -100,7 +100,7 @@ namespace Detection
         {
             this.STA_TEXT.DataContext = sTU_Binding;
             sTU_Binding.Show();
-            Thread.Sleep(3000);
+            //Thread.Sleep(3000);
             string path = System.IO.Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\detection_image\" + comm.Image_name;
             //@"C:\Users\13834\Desktop\WPF_Detection\Detection\bin\Debug\detection_image\" + comm.Image_name;//获取图片路径
             BitmapImage image = new BitmapImage(new Uri(path, UriKind.RelativeOrAbsolute));//打开图片
